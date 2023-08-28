@@ -15,10 +15,11 @@ If you checkout the `.github/workflows/gist.yml` file you should be able to figu
 
 The basic steps are 
 
-1) Create a gist called `resume.json` 
-2) Create or fork this repo and commit your updated `resume.json` 
-3) Create a Personal Github token that has just the `gist` scope 
-4) Go to your repository settings, then to the secrets page, and add a new secret called `TOKEN` with the value being from the token you created in 3) 
-5) Now simply push to your repo, and your `resume.json` from the repo, will publish and override your gist `resume.json` and thus updating the registry to match
+1) Create a gist called `resume.json`
+2) Create or fork this repo and commit your updated `resume.json`
+3) Update `gist_id` in the gist.yml workflow file
+4) Create a Personal Github token that has just the `gist` scope
+5) Go to your repository settings, then to the secrets page, and add a new secret called `TOKEN` with the value being from the token you created in 3)
+6) Now simply push to your repo, and your `resume.json` from the repo, will publish and override your gist `resume.json` and thus updating the registry to match
 
 Enjoy!
