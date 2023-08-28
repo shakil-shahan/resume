@@ -1,7 +1,7 @@
 
 The easy way to host your resume is by making a `resume.json` on gist.github.com. 
 
-For example mine can be found at https://gist.github.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105 which then automatically gets hosted at https://registry.jsonresume.org/thomasdavis 
+For example mine can be found at https://gist.github.com/shakil-shahan/b40de3cc748d9ec04b603cf6825772a9 which then automatically gets hosted at https://registry.jsonresume.org/shakil-shahan 
 
 You can just edit your Gist using the online GUI and it should update within less than a minute. 
 
