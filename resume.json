@@ -1,236 +1,462 @@
 {
-  "meta": {
-    "theme": "elegant"
-  },
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Thomas Davis",
-    "label": "Web Developer",
-    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-    "website": "https://lordajax.com",
-    "email": "thomasalwyndavis@gmail.com",
+    "name": "Md. Shakil Mahmud Shahan",
+    "label": "Senior Software Engineer @BS23 | GO | Python | AWS | Serverless | NodeJS | MEAN | NestJS",
+    "image": "https://media.licdn.com/dms/image/D5603AQE1GQwcRkMRvg/profile-displayphoto-shrink_400_400/0/1693249477537?e=1698883200&v=beta&t=vWqL3Ub3slC0Up_mSqCTt4Do2vRm-wBsdLTtgg_-p00",
+    "email": "shahankhanbd@gmail.com",
+    "phone": "+8801919250427",
+    "url": "https://www.linkedin.com/in/shakil-shahan",
+    "summary": "I'm a passionate software engineer with over 6 years of industry experience. My journey began with 4+ years of dedicated work in Node.js, where I honed my skills in  Express, NestJS, JavaScript, MongoDB, and more.\n \nCurrently, my focus has expanded to include Golang, Python, and harnessing AWS services, alongside my continued expertise in Node.js. This shift underscores my commitment to staying at the forefront of technology trends. I am proficient in Git and have learned a versatile array of tools and technologies such as Restify, Ionic, Angular, Socket, Firebase, Swagger, PostgreSQL, Azure, Docker, PM2, and many more during my development journey.\n \nMy approach to challenges is methodical, I believe in understanding the 'why' of a problem before determining the 'how,'. I invest time in conceptualizing and sketching solutions, with a strong emphasis on creating highly readable and easily maintainable source code.\n \nWith a detail-oriented mindset and successful team management experience, I am constantly striving to learn new technologies, team and task management, and ways to better myself in this rapidly evolving industry.",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "AU"
+      "countryCode": "BD",
+      "address": "Bangladesh"
     },
     "profiles": [
       {
-        "username": "ajaxdavis",
-        "url": "https://twitter.com/ajaxdavis",
-        "network": "twitter"
+        "network": "LinkedIn",
+        "username": "shakil-shahan",
+        "url": "https://www.linkedin.com/in/shakil-shahan"
       },
       {
-        "url": "https://github.com/thomasdavis",
-        "username": "thomasdavis",
-        "network": "github"
+        "network": "github",
+        "username": "MdShakilMahmudShahan",
+        "url": "https://github.com/shakil-shahan"
       }
     ]
   },
-  "education": [
-    {
-      "endDate": "2009-12-12",
-      "startDate": "2008-02-12",
-      "area": "Software Engineering (incomplete)",
-      "studyType": "Bachelors",
-      "institution": "The University of Queensland"
-    }
-  ],
-  "references": [
-    {
-      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
-    },
-    {
-      "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
-      "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
-    },
-    {
-      "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-      "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
-    },
-    {
-      "reference": "On Thomas Davis... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-      "name": "Greg Davis"
-    }
-  ],
-  "skills": [
-    {
-      "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM / Styled Components",
-        "Javascript / Typescript",
-        "React / Next",
-        "Redux / Apollo"
-      ],
-      "level": "Senior",
-      "name": "Frontend"
-    },
-    {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-      "level": "Senior",
-      "name": "Backend"
-    },
-    {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-      "level": "Senior",
-      "name": "Devops"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future"
-    }
-  ],
   "work": [
     {
-      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
-      "website": "https://tokenized.com/",
-      "name": "Tokenized",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2020-05-05",
-      "highlights": ["React", "Redux", "SCSS", "Product"]
+      "name": "Brain Station 23",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-07-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/399182",
+      "location": "Dhaka, Bangladesh"
     },
     {
-      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2020-01-01",
-      "highlights": [
-        "React, Apollo, Styled Components",
-        "Node.js / Rails",
-        "Docker / Heroku / GCP",
-        "Used Figma for design and UX work",
-        "Optimizing markets with tens of millions of rows using SQL."
-      ]
+      "name": "Brain Station 23 Limited",
+      "position": "Software Engineer",
+      "startDate": "2020-07-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/399182",
+      "location": "Dhaka, Bangladesh"
     },
     {
-      "highlights": [
-        "Worked with Postgres, Redis and Dynamodb for storage.",
-        "Hosted on a mixture of Heroku Apps and EC2 servers.",
-        "Caching by Fastly and Cloudflare",
-        "Hybrid app supported on all platforms"
-      ],
-      "summary": "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
-      "website": "https://listium.com",
-      "pinned": true,
-      "name": "Listium",
-      "position": "Developer",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01"
+      "name": "Brain Station 23 Limited",
+      "position": "Associate Software Engineer",
+      "startDate": "2019-06-30",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/399182",
+      "location": "Bangladesh"
     },
     {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Larger market share than Yahoo's, Microsoft's and Google's javascript content distribution networks",
-        "We serve hundreds of billions request a month",
-        "Contains over 3000 popular Javascript libraries",
-        "Millions of developers visit the site per year"
-      ],
-      "pinned": true,
-      "summary": "Following Google's CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "name": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2011-01-08"
+      "name": "Intelletive Technologies",
+      "position": "Full Stack Engineer",
+      "startDate": "2019-03-31",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/14578577",
+      "location": "Bangladesh"
     },
     {
-      "highlights": [
-        "Developed new tools for contacting congress",
-        "Brainstormed campaign ideas to raise maximum awareness about issues",
-        "Lots of social networking integration"
-      ],
-      "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
-      "website": "http://www.eff.org",
-      "name": "Electronic Frontier Foundation",
-      "position": "Developer",
-      "startDate": "2014-04-01",
-      "endDate": "2016-01-01"
-    },
-    {
-      "highlights": [
-        "Managed a small team of developers and designers",
-        "Built the entire frontend application with Backbone.js",
-        "Transferred all of the infrastructure from Heroku to AWS"
-      ],
-      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
-      "website": "http://www.earbits.com",
-      "name": "Earbits",
-      "position": "CTO",
-      "endDate": "2015-01-09",
-      "startDate": "2013-03-08"
-    },
-    {
-      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
-      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "pinned": true,
-      "name": "JSON Resume",
-      "position": "Founder",
-      "startDate": "2014-04-01"
-    },
-    {
-      "highlights": [
-        "Generated  37,000,000 banner views",
-        "100, 000 phone calls to congress",
-        "500, 000 emails",
-        "250, 000 signatures"
-      ],
-      "summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
-      "website": "http://www.taskforce.is",
-      "name": "Taskforce.is",
-      "position": "Developer",
-      "startDate": "2013-06-01",
-      "endDate": "2016-01-01"
-    },
-    {
-      "highlights": [
-        "The site and blog combined have managed to receive over 200,000 visitors in 2014."
-      ],
-      "summary": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
-      "website": "http://www.dronehire.org",
-      "name": "Drone Hire",
-      "position": "Co-Founder",
-      "startDate": "2013-01-01"
-    },
-    {
-      "highlights": [
-        "Over two million unique visitors a year",
-        "25,000+ ebook downloads",
-        "300,000+ Youtube views"
-      ],
-      "summary": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
-      "website": "http://backbonetutorials.com",
-      "name": "BackboneTutorials.com",
-      "position": "Founder",
-      "startDate": "2011-01-01",
-      "endDate": "2014-01-01"
-    },
-    {
-      "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.",
-      "website": "http://ephox.com",
-      "name": "Ephox",
-      "position": "Front-end Developer",
-      "endDate": "2012-06-01",
-      "startDate": "2011-01-01"
+      "name": "RAYDER RIDESHARE ENTERPRISE INC LTD",
+      "position": "Software Developer",
+      "startDate": "2017-08-31",
+      "endDate": "2019-02-28",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/14498816",
+      "location": "Road: 9, Nikunjo-1, Dhaka"
     }
   ],
-  "interests": [
+  "volunteer": [
     {
-      "name": "Gardening"
-    },
-    {
-      "name": "Music / Jamming"
-    },
-    {
-      "name": "Reading / Writing"
-    },
-    {
-      "name": "Open Source"
+      "organization": "ICT Division",
+      "position": "Information Communication Technology Teacher",
+      "startDate": "2017-05-31",
+      "endDate": "2020-10-31",
+      "summary": "I've had the privilege of teaching ICT subjects to high school and college students through my association with ORPHEUS.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/6640803"
     }
-  ]
+  ],
+  "education": [
+    {
+      "institution": "American International University-Bangladesh",
+      "area": "Computer Software Engineering",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2013-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Barishal Govt. Model School & College",
+      "area": "Science",
+      "studyType": "Higher School Certificate",
+      "startDate": "2010-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Patarhat Govt Muslim Model High School",
+      "area": "Science",
+      "studyType": "Secondery School Certificate",
+      "startDate": "2005-12-31",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Stripe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vipps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CouchDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nginx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gitlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST APIs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Maps API",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Restify",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NestJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management Information Systems (MIS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DigitalOcean",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Parallel Multithreaded Machine (PM2)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mongoose ODM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ionic Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Internet of Things (IoT)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "golang",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gin",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap (Framework)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "pgAdmin",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Knex.js",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "Bangla"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Marius Fjeldet",
+      "reference": "Shakil is 1 of 3 veteran developers in SensCom. Before my time, the team have had the responsibilities of developing the entire backend system, along with a frontend portal and a user app. As of this writing, the company is at the end of the startup phase, and about to officially start selling our product. My recommendation is over the past year, where I have been Shakil’s Tech Lead and Co-Developer, but it is worth mentioning that there is an impressive amount of work that has been done before my time. SensCom have over the past year invested in new personnel, and our IT team have for the most part worked on revamping our entire system for scalability, new and improved user experience for our app and web portal, and of course a lot of new functionalities.\n\nDuring my time, Shakil have spent most of the time in the frontend portal. The portal is made with Angular and connects to Azure AD for authentication and our REST API to load all other data. For a long time, Shakil was our only developer in the web frontend, and thus deserves the honour for a lot of the functionality that is there today. Today, the frontend team has expanded to 4. Kudos to Shakil for being able to maintain a coding style which have made it easy and fast to onboard new team members.\n\nAs a Tech Lead, I am loving to work with developers like Shakil. There is not much explanations needed when assigning new tasks as he have taken the responsibilities of learning and understanding the system we work in. Before committing his code, he is also summarizing and displaying his work to ensure the end result is as expected. From a Tech Lead’s perspective, it is very reassuring to write and assign new tasks without having to worry. Working with someone you have big trust in may cause the Tech Lead’s task descriptions to occasionally be sloppy or even cause problems if developed, and then its extra reassuring to know that Shakil will initiate a discussion before proceeding. When Shakil is out of assignments, he will announce so and suggest things he can do while waiting for new tasks.\n\nAs a Co-Developer, Shakil have made much of the backend code visible in the frontend portal. It is very easy to work with Shakil, and even though it usually makes more sense to request displaying existing backend logic in frontend, it is no problem to communicate what will be developed before it exists. Shakil is a great team player, and I have great fun teaming up and making new functionalities. \n\nIt is my honour to work with Shakil and grant him my recommendation. Shakil is an amazing developer that keeps on delivering, and he got all the qualities that a trustable developer should have. To whoever reads this in the future, this is a person you would definitely want in your team 😊"
+    },
+    {
+      "name": "Abdul Baten",
+      "reference": "I enjoyed the pleasure of working with Shakil for months until now as he is highly skilled in whatever task he has been assigned. Very fast learner and a good teammate to have."
+    },
+    {
+      "name": "Samiran Kumar",
+      "reference": "During the time I was developing the same projects in android, Shakil was involved as a Node.js and DevOps. I not only discovered that he is a professional and an extraordinary engineer, with an enormous talent for the development and creation of technology, but also an exceptional, hard-working, proactive and loyal person, maximum with the team. Shakil becomes by right one of the fundamental pieces of all the projects in which he participates. It puts forward, knowledge, enthusiasm, eagerness to learn, initiative, talent, and in short, all those things that we responsible ask when we look for a person for our team and that we rarely find. In my case, I had the luck and honor to work with Shakil and I can say that he is one of the professionals that I will always remember and one of the young technical referents I will always remember of certain projects that are extraordinarily powerful and ambitious. A huge potential that I'm sure will develop 1000% in the coming years."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ferdia | TEQ | ShareBus | Customer Portal",
+      "startDate": "2022-03-31",
+      "summary": "As one of the primary developer of the Ferdia project, I led the creation of an advanced digital platform for sustainable mobility. Utilizing Go, Python, AWS services (Lambda, DynamoDB, EventBridge), Stripe, and Vipps, I established a secure transaction ecosystem. Notable achievements include integrating Stripe and Vipps for secure online payments, optimizing backend infrastructure, and enhancing user interfaces. Through close collaboration, I translated business needs into technical solutions, contributing to streamlined operations for bus companies and organizers, while promoting eco-friendly travel practices.",
+      "url": "https://www.ferdia.no/",
+      "endDate": "2022-03-31"
+    },
+    {
+      "name": "Task Station",
+      "startDate": "2022-01-31",
+      "summary": "Simplify developer task management using a streamlined system. Built with GoLang Gin framework and MongoDB for the backend, and React for the frontend. AWS tools ensure scalability, while clean code architecture and strict naming conventions promote maintainability and rapid feature development. Increase productivity and focus with automated task tracking.",
+      "url": "https://sbueurope.mytask.today/login",
+      "endDate": "2022-01-31"
+    },
+    {
+      "name": "Dojoit | Jeda.ai",
+      "startDate": "2022-09-30",
+      "summary": "I was involved in developing and extending some features of this project using React.",
+      "url": "https://www.jeda.ai/",
+      "endDate": "2022-12-31"
+    },
+    {
+      "name": "DiaperSens | DignaCare",
+      "startDate": "2019-06-30",
+      "summary": "I played a key role in the development of a comprehensive elderly care solution within a hospital environment. Leveraging my expertise, I designed the backend systems using NodeJS and NestJS, surpassing a 60% complexity threshold. I orchestrated a seamless data flow between sensors, gateways, and the central server to ensure accurate measurement collection from wearable sensors within the patients' diapers. Using Ionic4 and later transitioning to Angular, I developed an intuitive admin interface to oversee and manage the sensors and gateways efficiently. My contributions extended to optimizing performance across various dimensions, addressing intricate calculations, and refining the data synchronization process. Additionally, I integrated AWS services to enhance the system's capabilities further. This project exemplifies my dedication to utilizing technology to provide specialized care to elderly citizens.",
+      "url": "https://dignacare.com/en/",
+      "endDate": "2022-01-31"
+    },
+    {
+      "name": "Meed | Tend",
+      "startDate": "2020-06-30",
+      "summary": "As a Backend Developer at Meed Banking Club, I led backend development, ensuring core functionality, data interactions, and feature implementation. Along with my team, I partially integrated a secure payment gateway sandbox to enhance transaction processing. Leveraging NodeJS, TypeScript, Angular, and Ionic, I contributed to Meed Banking Club's innovative approach to mobile banking.",
+      "url": "https://www.linkedin.com/company/tendmoney/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3B3dKZapUNRXa0bNPgoCRyNg%3D%3D",
+      "endDate": "2021-09-30"
+    },
+    {
+      "name": "Sequenza | Tekumo",
+      "startDate": "2019-03-31",
+      "summary": "I've built a robust backend using Node.js with Restify for APIs and used the Knex query builder to manage PostgreSQL database queries efficiently. On the frontend, I've built a user interface (UI) using Angular and Angular Material. The focus of this project is on connecting users and companies seamlessly for technical assistance.",
+      "url": "https://www.tekumo.com/",
+      "endDate": "2019-05-31"
+    },
+    {
+      "name": "Rayder",
+      "startDate": "2017-08-31",
+      "summary": "I oversee the technical aspects of our ride-sharing platform. This involves developing the core system using NodeJS, hosting on a Digital Ocean Linux server, and ensuring its smooth operation. Our standout feature is real-time ride requests broadcasted to nearby drivers via sockets, with a 15-second response window. I've also built an AdminLTE-powered admin portal for streamlined user and driver management. Our database is MongoDB, known for its strong query system.",
+      "url": null,
+      "endDate": "2019-02-28"
+    },
+    {
+      "name": "Teacher Student Communication System | TSCS",
+      "startDate": "2017-05-31",
+      "summary": "I served as the team leader for an application aimed at streamlining university consultation hours. Using JavaScript and MySQL, I designed the backend and utilized jQuery for frontend data retrieval. The interface was enhanced with Bootstrap. This software enabled teachers to allocate consultation slots, allowing students to book appointments efficiently. The innovation addressed challenges in managing consultations, resulting in reduced congestion and an improved experience for both teachers and students.",
+      "url": "http://aiubtsc.cf/",
+      "endDate": "2017-11-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
