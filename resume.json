@@ -30,9 +30,8 @@
       "name": "Brain Station 23",
       "position": "Senior Software Engineer",
       "startDate": "2022-07-31",
-      "endDate": "",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/399182",
       "location": "Dhaka, Bangladesh"
     },
@@ -40,9 +39,9 @@
       "name": "Brain Station 23 Limited",
       "position": "Software Engineer",
       "startDate": "2020-07-31",
-      "endDate": "",
+      "endDate": "2022-07-31",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/399182",
       "location": "Dhaka, Bangladesh"
     },
@@ -52,7 +51,7 @@
       "startDate": "2019-06-30",
       "endDate": "2020-07-31",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/399182",
       "location": "Bangladesh"
     },
@@ -62,7 +61,7 @@
       "startDate": "2019-03-31",
       "endDate": "2019-06-30",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/14578577",
       "location": "Bangladesh"
     },
@@ -72,7 +71,7 @@
       "startDate": "2017-08-31",
       "endDate": "2019-02-28",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/14498816",
       "location": "Road: 9, Nikunjo-1, Dhaka"
     }
@@ -444,7 +443,6 @@
       "name": "Rayder",
       "startDate": "2017-08-31",
       "summary": "I oversee the technical aspects of our ride-sharing platform. This involves developing the core system using NodeJS, hosting on a Digital Ocean Linux server, and ensuring its smooth operation. Our standout feature is real-time ride requests broadcasted to nearby drivers via sockets, with a 15-second response window. I've also built an AdminLTE-powered admin portal for streamlined user and driver management. Our database is MongoDB, known for its strong query system.",
-      "url": null,
       "endDate": "2019-02-28"
     },
     {
